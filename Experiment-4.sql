@@ -1,7 +1,3 @@
--- ============================================================
--- DBMS PRACTICAL - EXPERIMENT 3
--- Employee-Department-Project Database
--- ============================================================
 
 -- Create Database
 CREATE DATABASE IF NOT EXISTS CompanyDB;
